@@ -304,11 +304,9 @@ The notebook will:
 
 ## 👤 Author
 
-**[Your Full Name]**
-- 🎓 [B.Tech — Computer Science] | [Your College Name]
+Sarthak Pandit 
+- 🎓 [B.Tech — Computer Science] | JK Lakshmipat University
 - 🏢 Machine Learning Intern — **LaunchED Global**
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
 
 ---
 
